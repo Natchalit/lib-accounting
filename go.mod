@@ -1,6 +1,6 @@
 module github.com/Natchalit/lib-accounting
 
-go 1.18
+go 1.20
 
 require (
 	github.com/gin-gonic/gin v1.9.0
